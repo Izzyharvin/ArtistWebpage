@@ -1,4 +1,6 @@
 #slogan {
     font-family: 'Fascinate', cursive;
-    text-align: right;
+}
+.card {
+    text-align: center;
 }
